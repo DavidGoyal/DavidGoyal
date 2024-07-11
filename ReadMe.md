@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="./assets/WhatsApp Image 2024-03-26 at 22.50.36_ff84dcfc.jpg"  />
-</div>
-
 ###
 
 <div align="center">
