@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm David Goyal from Punjab,India<br><br>- 📚 I'm currently learning Next JS<br>- ⚡ In my free time I learn new stuff.</p>
+<p align="left">I'm David Goyal from Punjab,India<br><br>- 📚 I'm currently learning Next JS<br>- ⚡ In my free time I learn new stuff.<br>- 📫 How to reach me **goyaldavid55@gmail.com**</p>
 
 ###
 
